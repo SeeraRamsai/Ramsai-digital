@@ -1,0 +1,16 @@
+{
+  "name": "ramsai-digital",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm --prefix ramsai-digital run dev",
+    "build": "npm --prefix ramsai-digital run build",
+    "lint": "npm --prefix ramsai-digital run lint",
+    "preview": "npm --prefix ramsai-digital run preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
